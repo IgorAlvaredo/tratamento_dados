@@ -14,3 +14,4 @@ print('Tipagem:\n', df.dtypes)
 
 # Chegar valores nulos
 print('Valores nulos:\n', df.isnull().sum())
+
